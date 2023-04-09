@@ -35,7 +35,7 @@ on:
         description: "Variants of gapps"
         required: true
         default: "none"
-        type: choice
+        type: pico
         options:
         - none
         - super
